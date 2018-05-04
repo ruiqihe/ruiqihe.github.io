@@ -73,7 +73,8 @@ h2 a {
     color: white;
     letter-spacing: -1px;
     background: rgba(0, 0, 0, 0.7);
-    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 a:hover {
