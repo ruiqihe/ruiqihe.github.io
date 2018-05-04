@@ -1,0 +1,90 @@
+
+
+body {
+    background-color: "#F2F3F4";
+    font-family: Arial;
+    font-size: 18px;
+    margin: 0;
+
+}
+
+.content {
+    margin: 5% 5% 5% 5%;
+}
+
+.thumbnail{
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.annotation {
+    margin-right: 30px;
+}
+
+p {
+    color: grey;
+    font-size: 20px;
+}
+
+/* For descriptions of each project */
+.annotation p {
+    margin-left: 240px;
+    margin-top: 15px;
+    text-align: left;
+}
+
+h2 {
+    position: relative;
+}
+
+img {
+    height: auto;
+    width: auto;
+    width: 280px;
+}
+
+div.image-container {
+    box-shadow: 0 0 20px #000;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    float: left;
+    margin: 0 auto;
+}
+
+.project {
+    height: 325px;
+}
+
+.project{
+    margin-top: 10px;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.leftcol {
+    text-align: center;
+    position: relative;
+    display: inline-block;
+}
+
+h2 a {
+    color: white;
+    font: bold 24px/45px Helvetica, Sans-Serif;
+    letter-spacing: -1px;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+}
+
+a:hover {
+    color: #ff2e0f;
+}
+
+.button {
+    display: inline-block;
+    padding: .8em;
+    background-color: #B7B7B7;
+    text-decoration: none;
+    color: white;
+}
