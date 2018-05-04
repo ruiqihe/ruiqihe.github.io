@@ -1,8 +1,7 @@
 
-
 body {
     background-color: "#F2F3F4";
-    font-family: "Bitstream Charter";
+    font-family: Arial;
     font-size: 18px;
     margin: 0;
 
@@ -21,8 +20,8 @@ body {
     margin-right: 30px;
 }
 
-p h2 {
-    color: #000000;
+p {
+    color: grey;
     font-size: 20px;
 }
 
@@ -71,10 +70,10 @@ div.image-container {
 
 h2 a {
     color: white;
+    font: bold 24px/45px Helvetica, Sans-Serif;
     letter-spacing: -1px;
     background: rgba(0, 0, 0, 0.7);
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding: 10px;
 }
 
 a:hover {
